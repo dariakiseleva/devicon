@@ -9937,6 +9937,27 @@
         "aliases": []
     },
     {
+        "name": "twilio",
+        "altnames": [],
+        "tags": [
+            "api",
+            "automation",
+            "platform"
+        ],
+        "versions": {
+            "svg": [
+                "original",
+                "original-wordmark"
+            ],
+            "font": [
+                "original",
+                "original-wordmark"
+            ]
+        },
+        "color": "#f22f46",
+        "aliases": []
+    },
+    {
         "name": "twitter",
         "altnames": [],
         "tags": [
